@@ -1,0 +1,178 @@
+[
+  {
+    "name": "Old Fashioned",
+    "category": "Classic",
+    "glass": "Old Fashioned glass",
+    "ingredients": [
+      { "item": "Bourbon or Rye whiskey", "amount": "45 ml" },
+      { "item": "Angostura bitters", "amount": "2 dashes" },
+      { "item": "Sugar cube", "amount": "1" },
+      { "item": "Water", "amount": "Few drops" }
+    ],
+    "garnish": "Orange slice or twist, and a cocktail cherry",
+    "instructions": "Place sugar cube in old fashioned glass and saturate with bitters, add a few drops of water. Muddle until dissolved. Fill the glass with ice cubes and add whiskey. Stir gently."
+  },
+  {
+    "name": "Dry Martini",
+    "category": "Classic",
+    "glass": "Martini glass",
+    "ingredients": [
+      { "item": "Gin", "amount": "60 ml" },
+      { "item": "Dry Vermouth", "amount": "10 ml" }
+    ],
+    "garnish": "Green olive or lemon twist",
+    "instructions": "Pour all ingredients into a mixing glass with ice cubes. Stir well and strain into a chilled martini glass. Squeeze oil from lemon peel onto the drink, or garnish with an olive."
+  },
+  {
+    "name": "Manhattan",
+    "category": "Classic",
+    "glass": "Martini or Coupe glass",
+    "ingredients": [
+      { "item": "Rye Whiskey", "amount": "50 ml" },
+      { "item": "Sweet Red Vermouth", "amount": "20 ml" },
+      { "item": "Angostura bitters", "amount": "1 dash" }
+    ],
+    "garnish": "Cocktail cherry",
+    "instructions": "Pour all ingredients into a mixing glass with ice cubes. Stir well and strain into a chilled cocktail glass."
+  },
+  {
+    "name": "Negroni",
+    "category": "Classic",
+    "glass": "Old Fashioned glass",
+    "ingredients": [
+      { "item": "Gin", "amount": "30 ml" },
+      { "item": "Campari", "amount": "30 ml" },
+      { "item": "Sweet Red Vermouth", "amount": "30 ml" }
+    ],
+    "garnish": "Orange slice",
+    "instructions": "Pour all ingredients directly into an old fashioned glass filled with ice. Stir gently."
+  },
+  {
+    "name": "Daiquiri",
+    "category": "Classic",
+    "glass": "Cocktail or Coupe glass",
+    "ingredients": [
+      { "item": "White Rum", "amount": "60 ml" },
+      { "item": "Fresh Lime Juice", "amount": "20 ml" },
+      { "item": "Simple Syrup", "amount": "2 bar spoons" }
+    ],
+    "garnish": "Lime wheel",
+    "instructions": "Shake all ingredients well with ice cubes, then strain into a chilled cocktail glass."
+  },
+  {
+    "name": "Whiskey Sour",
+    "category": "Classic",
+    "glass": "Old Fashioned glass",
+    "ingredients": [
+      { "item": "Bourbon Whiskey", "amount": "45 ml" },
+      { "item": "Fresh Lemon Juice", "amount": "25 ml" },
+      { "item": "Simple Syrup", "amount": "20 ml" },
+      { "item": "Egg White", "amount": "20 ml (Optional)" }
+    ],
+    "garnish": "Half an orange slice and a cocktail cherry",
+    "instructions": "If using egg white, dry shake all ingredients first without ice. Then add ice and shake vigorously again. Strain into an old fashioned glass filled with ice."
+  },
+  {
+    "name": "Margarita",
+    "category": "Classic",
+    "glass": "Margarita or Coupe glass",
+    "ingredients": [
+      { "item": "Tequila", "amount": "50 ml" },
+      { "item": "Triple Sec or Cointreau", "amount": "20 ml" },
+      { "item": "Fresh Lime Juice", "amount": "15 ml" }
+    ],
+    "garnish": "Salt rim and lime wedge",
+    "instructions": "Rub the rim of the glass with a lime wedge and dip it in salt. Shake all ingredients with ice and strain into the prepared glass."
+  },
+  {
+    "name": "Mojito",
+    "category": "Classic",
+    "glass": "Highball glass",
+    "ingredients": [
+      { "item": "White Rum", "amount": "45 ml" },
+      { "item": "Fresh Lime Juice", "amount": "20 ml" },
+      { "item": "Fresh Mint Sprigs", "amount": "6 pcs" },
+      { "item": "White Sugar", "amount": "2 teaspoons" },
+      { "item": "Soda Water", "amount": "Top up" }
+    ],
+    "garnish": "Mint sprig and lime slice",
+    "instructions": "Muddle mint sprigs with sugar and lime juice in the highball glass. Add a splash of soda water and fill the glass with crushed ice. Pour the rum and top with more soda water. Stir gently from the bottom up."
+  },
+  {
+    "name": "Sidecar",
+    "category": "Classic",
+    "glass": "Cocktail glass",
+    "ingredients": [
+      { "item": "Cognac", "amount": "50 ml" },
+      { "item": "Triple Sec", "amount": "20 ml" },
+      { "item": "Fresh Lemon Juice", "amount": "20 ml" }
+    ],
+    "garnish": "Sugar rim (Optional)",
+    "instructions": "Shake all ingredients well with ice cubes, then strain into a chilled cocktail glass."
+  },
+  {
+    "name": "Bloody Mary",
+    "category": "Classic",
+    "glass": "Highball glass",
+    "ingredients": [
+      { "item": "Vodka", "amount": "45 ml" },
+      { "item": "Tomato Juice", "amount": "90 ml" },
+      { "item": "Fresh Lemon Juice", "amount": "15 ml" },
+      { "item": "Worcestershire Sauce", "amount": "2 dashes" },
+      { "item": "Tabasco, Salt, Black Pepper", "amount": "To taste" }
+    ],
+    "garnish": "Celery stalk and lemon wedge",
+    "instructions": "Stir ingredients gently with ice in a mixing glass (or roll between two glasses) and strain into a highball glass filled with ice."
+  },
+  {
+    "name": "Gin Fizz",
+    "category": "Classic",
+    "glass": "Highball glass",
+    "ingredients": [
+      { "item": "Gin", "amount": "45 ml" },
+      { "item": "Fresh Lemon Juice", "amount": "30 ml" },
+      { "item": "Simple Syrup", "amount": "10 ml" },
+      { "item": "Soda Water", "amount": "Top up" }
+    ],
+    "garnish": "Lemon slice",
+    "instructions": "Shake gin, lemon juice, and syrup with ice. Strain into a highball glass without ice, then top up with soda water."
+  },
+  {
+    "name": "Sazerac",
+    "category": "Classic",
+    "glass": "Old Fashioned glass",
+    "ingredients": [
+      { "item": "Cognac", "amount": "50 ml" },
+      { "item": "Absinthe", "amount": "10 ml (for rinsing)" },
+      { "item": "Sugar cube", "amount": "1" },
+      { "item": "Peychaud's Bitters", "amount": "2 dashes" }
+    ],
+    "garnish": "Lemon peel",
+    "instructions": "Rinse a chilled old fashioned glass with absinthe and discard the excess. In another glass, muddle the sugar cube and bitters with a few drops of water. Add cognac and ice, stir well, and strain into the absinthe-rinsed glass."
+  },
+  {
+    "name": "Boulevardier",
+    "category": "Classic",
+    "glass": "Old Fashioned or Coupe glass",
+    "ingredients": [
+      { "item": "Bourbon or Rye Whiskey", "amount": "45 ml" },
+      { "item": "Campari", "amount": "30 ml" },
+      { "item": "Sweet Red Vermouth", "amount": "30 ml" }
+    ],
+    "garnish": "Orange twist",
+    "instructions": "Pour all ingredients into a mixing glass with ice cubes. Stir well and strain into a chilled glass."
+  },
+  {
+    "name": "Last Word",
+    "category": "Classic",
+    "glass": "Coupe glass",
+    "ingredients": [
+      { "item": "Gin", "amount": "22.5 ml" },
+      { "item": "Green Chartreuse", "amount": "22.5 ml" },
+      { "item": "Maraschino Liqueur", "amount": "22.5 ml" },
+      { "item": "Fresh Lime Juice", "amount": "22.5 ml" }
+    ],
+    "garnish": "Brandied cherry",
+    "instructions": "Shake all ingredients vigorously with ice and strain into a chilled coupe glass."
+  }
+]
